@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#546e7a</color>
+    <color name="colorPrimaryDark">#29434e</color>
+    <color name="colorAccent">#dfe0e0</color>
+    <color name="windowBackground">#8e8e8e</color>
+    <color name="secondary">#9a0007</color>
+    <color name="secondarylight">#ff6659</color>
+    <color name="hej">#bcf7ff</color>
+    <color name="hej2">#f392ff</color>
+</resources>

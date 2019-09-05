@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CryptoExchange</string>
+    <string name="convert">Konvertera</string>
+    <string name="enter_amount">Skriv Antal</string>
+    <string name="fromcurr">Från</string>
+    <string name="tocurr">Till</string>
+    <string name="nameinput">Namn</string>
+    <string name="valueinput">Värde</string>
+    <string name="currencies">Valutor</string>
+    <string name="crypto">Crypto</string>
+    <string name="fiat">Fiat</string>
+    <string name="id">id</string>
+    <string name="type">Type</string>
+</resources>
